@@ -1,0 +1,21 @@
+@media(min-width:700px){
+  .footer .widget .widget-title, .widget .widget-title { 
+    position: relative;
+    color: #4d148c;
+    font-size: 10px;
+    font-family: "Dangrek",sans-serif;
+    font-weight: 700;
+    letter-spacing: .75px;
+    text-transform: uppercase;
+    margin-bottom: 20px;  
+  }
+  .first-footer a,.widget-area .widget p{
+    color:#000;
+    display: block;
+      font-size: 12px;
+      letter-spacing: 0;
+      font-weight: 300;
+      line-height: 25px;
+  }
+}
+
